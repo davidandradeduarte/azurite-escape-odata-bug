@@ -1,6 +1,6 @@
 # Azurite bug when escaping single quotes in a string
 
-Azurite v3.19.0 doesn't escape single quotes.
+Azurite v3.24.0 doesn't escape single quotes.
 
 ## Steps to reproduce
 
