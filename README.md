@@ -10,3 +10,11 @@ make run
 ```
 
 It works as expected with a real Azure Storage account.
+
+![real storage account](img/real_storage_account.png)
+
+VS
+
+Azurite
+
+![azurite](img/azurite.png)
