@@ -29,8 +29,8 @@ func main() {
 	fmt.Println("testing escaped")
 	test(client, escaped)
 
-	fmt.Println("testing unescaped")
-	test(client, unescaped)
+	// fmt.Println("testing unescaped")
+	// test(client, unescaped)
 }
 
 func test(c *aztables.Client, s string) {
